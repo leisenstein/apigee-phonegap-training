@@ -13,6 +13,7 @@ Prerequisites
 
 
 Section 1
+========================
 
 App: List based app for Restaurants.  App connects to Cassandra database via Apigee account to pull a list of restaurants.  You can also add restaurants to the list and GeoLocation is used to sort this list based on proximity.
 
@@ -25,6 +26,7 @@ Codiqa is a web-based interface to build the UI for the app.  After it is built,
 
 
 Section 2
+========================
 
 Apigee App Service (UserGrid OSS)
 - Sign up for an Apigee account (j.mp/apigee-sign-up)
@@ -36,6 +38,7 @@ Apigee App Service (UserGrid OSS)
 
 
 Section 3
+========================
 
 Apigee's SDK uses Async Javascript to fetch data from Cassandra via web service calls.
 Apigee service talks in JSON.
@@ -43,6 +46,7 @@ Apigee service talks in JSON.
 
 
 Section 4
+========================
 
 PhoneGap 3.2 Instruction
 * phonegap create <foldername>  <com.domain.projectname>  <ProjectName>
