@@ -56,7 +56,7 @@ PhoneGap 3.2 Instruction
 * Paste your UI code here (css folder, js folder, index.html, etc)
 * Homepage MUST be index.html (unless changed in config file)
 * Change config.xml access to "*" for TESTING ONLY
-* Build the Project in your platform
+* Build the Project in your platform (You will probably have some issues here you will need to resolve)
 
         phonegap local build android  
 * Goto platforms/android directory
