@@ -53,11 +53,6 @@ PhoneGap 3.2 Instruction
 1. Create PhoneGap Project
 
         phonegap create <foldername>  <com.domain.projectname>  <ProjectName>
-
-
-
-
-
 2. In this folder, there will be a www folder.  Delete all files/folders from www folder EXCEPT config.xml
 3. Paste your UI code here (css folder, js folder, index.html, etc)
 4. Homepage MUST be index.html (unless changed in config file)
@@ -65,8 +60,6 @@ PhoneGap 3.2 Instruction
 6. Build the Project in your platform (You will probably have some issues here you will need to resolve)
 
         phonegap local build android  
-
-
 7. Goto platforms/android directory
 8. Import this into Eclipse
 9. Done
