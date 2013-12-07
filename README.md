@@ -57,7 +57,8 @@ PhoneGap 3.2 Instruction
 * Homepage MUST be index.html (unless changed in config file)
 * Change config.xml access to "*" for TESTING ONLY
 
-        phonegap local build android  (You will probably have some issues here you will need to resolve)phonegap local build android  (You will probably have some issues here you will need to resolve)
+        phonegap local build android  (You will probably have some issues here you will need to resolve)
+
 * Goto platforms/android directory
 * Import this into Eclipse
 * Done
