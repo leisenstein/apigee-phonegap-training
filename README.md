@@ -10,7 +10,7 @@ Prerequisites
 - ANT installed (and \bin in PATH)
 - Android/Eclipse SDK (and Android\sdk\tools directory in PATH)
 - PhoneGap installed (via Node)
-- Pre-reuisites: https://dl.dropboxusercontent.com/u/348446/trainings/android.html
+- Pre-requisites: https://dl.dropboxusercontent.com/u/348446/trainings/android.html
 - Steve Traut reference app: https://github.com/stevetraut/training/tree/master/restaurant_app_1
 
 
