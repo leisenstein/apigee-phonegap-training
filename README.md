@@ -44,6 +44,7 @@ Section 3
 
 Apigee's SDK uses Async Javascript to fetch data from Cassandra via web service calls.
 Apigee service talks in JSON.
+* Apigee Documentation:  http://apigee.com/docs/
 
 
 
