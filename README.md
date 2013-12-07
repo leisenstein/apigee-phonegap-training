@@ -63,3 +63,9 @@ PhoneGap 3.2 Instruction
 7. Goto platforms/android directory
 8. Import this into Eclipse
 9. Done
+
+
+
+
+
+
