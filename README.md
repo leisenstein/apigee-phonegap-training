@@ -55,6 +55,9 @@ PhoneGap 3.2 Instruction
         phonegap create <foldername>  <com.domain.projectname>  <ProjectName>
 
 
+
+
+
 2. In this folder, there will be a www folder.  Delete all files/folders from www folder EXCEPT config.xml
 3. Paste your UI code here (css folder, js folder, index.html, etc)
 4. Homepage MUST be index.html (unless changed in config file)
