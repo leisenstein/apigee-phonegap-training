@@ -5,10 +5,10 @@ Based on Apigee PhoneGap 3.2 Training in Atlanta (Steve Traut)
 
 
 Prerequisites
-- Node installed
+- Node installed (should place it in the PATH)
 - JDK installed (and in PATH)
 - ANT installed (and in PATH)
-- Android/Eclipse SDK
+- Android/Eclipse SDK (and Android\sdk\tools directory in PATH)
 - PhoneGap installed (via Node)
 - Pre-reuisites: https://dl.dropboxusercontent.com/u/348446/trainings/android.html
 - Steve Traut reference app: https://github.com/stevetraut/training/tree/master/restaurant_app_1
